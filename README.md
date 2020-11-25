@@ -1,8 +1,10 @@
-# book_app
+# Book Store
 
 A new Flutter project.
-<img src="https://github.com/VladislavPVI/BookStore/blob/master/1.png" />
-<img src="https://github.com/VladislavPVI/BookStore/blob/master/2.png" />
+
+<img src="https://github.com/VladislavPVI/BookStore/blob/master/1.png" width="202.33" height="360" /> | <img src="https://github.com/VladislavPVI/BookStore/blob/master/2.png" width="202.33" height="360" />
+------------ | ------------- 
+MainScreen | Details
 
 ## Getting Started
 
