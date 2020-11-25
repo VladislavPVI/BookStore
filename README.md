@@ -1,6 +1,8 @@
 # book_app
 
 A new Flutter project.
+<img src="https://github.com/VladislavPVI/BookStore/blob/master/1.png" />
+<img src="https://github.com/VladislavPVI/BookStore/blob/master/2.png" />
 
 ## Getting Started
 
